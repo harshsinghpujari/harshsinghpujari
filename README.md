@@ -5,11 +5,6 @@
 - 🔭 Working on: Java E-Commerce Console App
 - 🌱 Currently Learning: Advanced Java, Web Development (HTML, CSS, JS)
 - 👨‍💻 Projects: Core Java, OOPs, Collection Framework
-- 📫 Reach me: harshsinghpujari@gmail.com
+- 📫 Reach me: himanshusingh83683@gmail.com
 
 📌 Check out my [E-Commerce Java App](https://github.com/harshsinghpujari/java-ecommerce-app)
-
-<!---
-harshsinghpujari/harshsinghpujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
