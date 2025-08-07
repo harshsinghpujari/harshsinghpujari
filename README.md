@@ -8,7 +8,11 @@
 
 - 🔭 Working on: full-stack projects
 - 🌱 Currently Learning: Advanced Java, react.js
-- 📫 Reach me: himanshusingh83683@gmail.com 
+- 📫 Reach me: himanshusingh83683@gmail.com
+- 📌 Check out my [Tour & Travel website](https://github.com/harshsinghpujari/ExploreEase-Tour-Travel_Project)
+- 📌 Check out my [Currency-Converter-app-react.js](https://chipper-dragon-35f3ca.netlify.app/)
+- 📌 Check out my [TodoList-Web-App-react.js](https://todolist-web-app-reactjs.netlify.app/)
+- 📌 Check out my [E-Commerce Java App](https://github.com/harshsinghpujari/java-ecommerce-app)
 
 ---
 
@@ -27,15 +31,12 @@
 
 
 
-📌 Check out my [Currency-Converter-app-react.js](https://chipper-dragon-35f3ca.netlify.app/)
 
-📌 Check out my [TodoList-Web-App-react.js](https://todolist-web-app-reactjs.netlify.app/)
+
  
-📌 Check out my [E-Commerce Java App](https://github.com/harshsinghpujari/java-ecommerce-app)
 
-📌 Check out my [blog-listing web app](https://merry-puppy-00e2c4.netlify.app/)
 
-📌 Check out my [Tour & Travel website](https://github.com/harshsinghpujari/ExploreEase-Tour-Travel_Project)
+
 
 
 
