@@ -8,7 +8,6 @@
 
 - 🔭 Working on: full-stack projects
 - 🌱 Currently Learning: Advanced Java, react.js
-- 👨‍💻 Projects: blog-listing web app , e-commerce java backend , Tour & Travel website ,and so on.....
 - 📫 Reach me: himanshusingh83683@gmail.com 
 
 ---
@@ -23,6 +22,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+
+
+
 
 📌 Check out my [Currency-Converter-app-react.js](https://chipper-dragon-35f3ca.netlify.app/)
 
