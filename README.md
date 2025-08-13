@@ -1,6 +1,9 @@
 
  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">-->
- ![Banner](Tech Town Under a Starry Sky.png)
+<p align="center">
+  <img src="Tech%20Town%20Under%20a%20Starry%20Sky.png" alt="Banner" width="100%">
+</p>
+
 <!--   <img src="https://chatgpt.com/s/m_689c396ec800819195c9c79f65614d36" alt="MasterHead" style="width:100%; height:auto;" -->
 
 <h1 align="center">Hey, I'm Himanshu Singh 👋</h1>
