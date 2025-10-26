@@ -7,7 +7,7 @@
 <!--   <img src="https://chatgpt.com/s/m_689c396ec800819195c9c79f65614d36" alt="MasterHead" style="width:100%; height:auto;" -->
 
 <h1 align="center">Hey, I'm Himanshu Singh 👋</h1>
-<h3 align="center">🎓 Final Year BCA Student | 💻 Java Developer | 🌐 Learning Full Stack Development</h3>
+<h3 align="center">🎓Recent BCA Graduate | 💻 MERN & Java Developer | 🌐 Building full Stack projects</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
