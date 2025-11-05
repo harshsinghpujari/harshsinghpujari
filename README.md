@@ -6,13 +6,11 @@
 
 
 
-- 🔭 I’m a **Full Stack Developer**
+- 🔭 I’m an Aspiring**Full Stack Developer**
 
 - 🌱 I’m currently expanding my knowledge in **MERN STACK**
 
 - 🔭 Check out my dev portfolio -- **<a href="https://portfolio-dev-himanshu.vercel.app" target="_blank"> Himanshu.dev</a>**
-
-- 💬 Ask me about **MERN, JAVA**
 
 - 📫 How to reach me **himanshusingh83683@gmail.com**
 
