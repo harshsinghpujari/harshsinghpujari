@@ -1,66 +1,73 @@
+![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<h3 align="center">A passionate full Stack Developer and a Space Enthusiast </h3>
+<img align="right" alt="Coding" width="335"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
- <!--<p align="center">
-  <img src="Tech%20Town%20Under%20a%20Starry%20Sky.png" alt="Banner" width="100%">
+
+
+
+- 🔭 I’m a **Full Stack Developer**
+
+- 🌱 I’m currently expanding my knowledge in **MERN STACK**
+
+- 🔭 Check out my dev portfolio -- **<a href="https://portfolio-dev-himanshu.vercel.app" target="_blank"> Himanshu.dev</a>**
+
+- 💬 Ask me about **MERN, JAVA**
+
+- 📫 How to reach me **himanshusingh83683@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/harsh_singh_o07" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/himanshusingh83/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/harsh_singh_o7/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
 </p>
--->
-<!--   <img src="https://chatgpt.com/s/m_689c396ec800819195c9c79f65614d36" alt="MasterHead" style="width:100%; height:auto;" -->
-
-<h1 align="center">Hey, I'm Himanshu Singh 👋</h1>
-<h3 align="center">🎓Recent BCA Graduate | 💻 MERN & Java Developer | 🌐 Building full Stack projects</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Working on: full-stack projects
-- 🌱 Currently Learning: Advanced Java, react.js
-- 📫 Reach me: himanshusingh83683@gmail.com
-  
-- 📌 Check out my [Tour & Travel website](https://github.com/harshsinghpujari/ExploreEase-Tour-Travel_Project)
-- 📌 Check out my [Currency-Converter-app-react.js](https://chipper-dragon-35f3ca.netlify.app/)
-- 📌 Check out my [TodoList-Web-App-react.js](https://todolist-web-app-reactjs.netlify.app/)
-- 📌 Check out my [E-Commerce Java App](https://github.com/harshsinghpujari/java-ecommerce-app)
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="50" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"/>
- 
-<img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1NTc0MTMsIm5iZiI6MTc1NDU1NzExMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA3VDA4NTgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlYTRhODk3ZTQ5NjdmMTJiMzVlZmIzMjM3OTk3Zjk5YmQwYTA3Y2Y4MzFhZjgwYWZlYzFiNjM2Yzg2YTcxOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dtOVhCN8PzoM5X3Lumiq89E43eaXIoburNB3ctbxw5k" width="50" height="50"/>
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1NTc0MTMsIm5iZiI6MTc1NDU1NzExMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA3VDA4NTgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlOWZhZTU3ZmYzMDIxYjk1OGU3YzQ2NTdkZDUyZDRjZjRiMWRkNTQyNTkyOWE1M2I3ZTg1ZWIzMWRhODJjYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MuF-sCZyGglbqCvPqr-XaJAebqLDzi5ggwrQa623fDM" width="50" height="50"/>
-
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50"/>
-
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> -->
-</p>
-
-<br/>
-<br/>
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
+ ---
 
+<h3 align="center">📊 Statistics</h3>
 
+<!-- Use correct markdown and remove line breaks from URLs -->
 <div align="center">
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshsinghpujari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshsinghpujari&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghpujari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <a href="https://github.com/harshsinghpujari">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshsinghpujari&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshsinghpujari&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshsinghpujari&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshsinghpujari&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsinghpujari&theme=2077" height="180em" />
+  </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<h2 align="left">⚡ Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghpujari&theme=react-dark" />
+</div>
+
+---
 
 
-
- 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshsinghpujari&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshsinghpujari&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-lang)
 
 
 
